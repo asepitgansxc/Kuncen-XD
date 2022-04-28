@@ -33,18 +33,18 @@ b = "\033[1;36m"
 
 def nick():
     print("%s ! %sHello Word%s"%(m,h,p))
-    print("%s ! %sHii Gua Dekura-X%s"%(m,h,p))
+    print("%s ! %sHii Gua Asepitgans%s"%(m,h,p))
     print("%s ! %sI'm Programmer Newbie %s "%(m,h,p))
     print("%s [ %sMedia Sosial%s ] %s"%(b,p,b,p))
-    print("%s * Instagram : ngemry7%s"%(h,p))
+    print("%s * Instagram : asepit_ganz%s"%(h,p))
 if __name__ == "__main__":
     nick()
 ```
 ### MY SOCIAL MEDIA
-[![Github](https://img.shields.io/badge/Github-Ikuti-green?style=for-the-badge&logo=github)](https://github.com/Dekura-X/)
-[![Youtube](https://img.shields.io/badge/Youtube-Subscribe-green?style=for-the-badge&logo=Youtube)](https://youtube.com/c/orbXDBdbsS)
-[![Instagram](https://img.shields.io/badge/Instagram-Ikuti-green?style=for-the-badge&logo=Instagram)](https://www.instagram.com/ngemry7)
-[![Whatsapp](https://img.shields.io/badge/Whatsapp-Chat-green?style=for-the-badge&logo=WhatsApp)](https://wa.me/+6281567607136?text=Assalamualaikum%20Bang)
+[![Github](https://img.shields.io/badge/Github-Ikuti-green?style=for-the-badge&logo=github)](https://github.com/privatescrip)
+[![Youtube](https://img.shields.io/badge/Youtube-Subscribe-green?style=for-the-badge&logo=Youtube)](https://youtube.com/channel/UCKV9QGTZQIM6xc9UPSnSdXg)
+[![Instagram](https://img.shields.io/badge/Instagram-Ikuti-green?style=for-the-badge&logo=Instagram)](https://instagram.com/asepit_ganz)
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-Chat-green?style=for-the-badge&logo=WhatsApp)](https://wa.me/+6285794270820?text=Assalamualaikum%20Bang)
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
