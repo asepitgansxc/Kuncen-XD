@@ -1,4 +1,4 @@
-### Hi there 👋
+### Halo 👋
 
 <!--
 **Asepitgans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,10 +33,10 @@ b = "\033[1;36m"
 
 def nick():
     print("%s ! %sHello Word%s"%(m,h,p))
-    print("%s ! %sHii Gua Asepitgans%s"%(m,h,p))
+    print("%s ! %sHii Gua Kuncen-XD%s"%(m,h,p))
     print("%s ! %sI'm Programmer Newbie %s "%(m,h,p))
     print("%s [ %sMedia Sosial%s ] %s"%(b,p,b,p))
-    print("%s * Instagram : asepit_ganz%s"%(h,p))
+    print("%s * Instagram : Not_pound%s"%(h,p))
 if __name__ == "__main__":
     nick()
 ```
